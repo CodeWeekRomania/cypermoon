@@ -1,0 +1,18 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "Fake news detector",
+  "main": "app.js",
+  "dependencies": {
+     "mysql": "2.18.1",
+     "express": "4.17.1",
+     "cors": "2.8.5",
+     "newsapi": "2.4.1"
+   },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cybermoon",
+  "license": "ISC"
+}

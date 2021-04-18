@@ -1,0 +1,10 @@
+{
+  "name": "NoLies",
+  "description": "An extenstion made to rate the credibility of news websites",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage", "activeTab", "tabs"]
+}
